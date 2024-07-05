@@ -1,4 +1,4 @@
-# Documentation du tuto GIT 
+# GIT 
 
 # Init du dépot 
 
