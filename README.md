@@ -10,16 +10,36 @@ git remote add origin git@github.com:42nicocode/git.git
 
 git status 
 
-git add $fichier 
+
+git add $fichier1 $fichier2 $fichier3
 git .
 
+
+git restore --staged $fichier1 
+
+
 git status 
-git commit
+git add . 
+git commit 
+git status
+git log 
+
 
 git log | git show :: évolution d'un projet à l'aide des informations des log
 
 # Rédaction commit
 
-Titre commit 
+Titre 
+Description
 
-Description | évolution commit 
+
+
+
+# Rédaction commit
+
+'''bash
+git add . | $fichier
+git commit -m "type :: titre de la description"
+git push origin main
+'''
+
