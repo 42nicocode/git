@@ -10,13 +10,10 @@ git remote add origin git@github.com:42nicocode/git.git
 
 git status 
 
-
 git add $fichier1 $fichier2 $fichier3
 git .
 
-
 git restore --staged $fichier1 
-
 
 git status 
 git add . 
@@ -32,7 +29,7 @@ git checkout
 
 Titre 
 Description
-
+Revue de code 
 
 # Rédaction commit
 
@@ -46,3 +43,11 @@ git push origin main
 '''bash 
 git checkout -b $branch
 '''
+
+# fusion branch
+
+git branch
+git checkout main
+git merge develop
+git status
+
