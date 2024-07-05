@@ -22,17 +22,16 @@ git status
 git add . 
 git commit 
 git status
-git log 
+git log          |   git log / git show :: évolution d'un projet à l'aide des informations des log
 
+git branch
+git checkout 
 
-git log | git show :: évolution d'un projet à l'aide des informations des log
 
 # Rédaction commit
 
 Titre 
 Description
-
-
 
 
 # Rédaction commit
@@ -43,3 +42,7 @@ git commit -m "type :: titre de la description"
 git push origin main
 '''
 
+# Création branch
+'''bash 
+git checkout -b $branch
+'''
