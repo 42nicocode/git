@@ -57,9 +57,10 @@
 - **Expérience :** Une expérience pratique via des stages, des projets académiques, ou des postes antérieurs dans l’analyse de données est souvent nécessaire.
 
 Le rôle du data analyste est crucial dans le monde moderne où les données jouent un rôle central dans la prise de décision stratégique. Les compétences techniques et analytiques, combinées à une bonne capacité de communication, font de ce métier un pilier essentiel pour les entreprises cherchant à optimiser leurs opérations et à prévoir les tendances futures.
+
 ---
 ---
----
+
 Le langage de programmation R est largement utilisé pour les statistiques, l'analyse de données et le machine learning. Voici un aperçu détaillé de ses caractéristiques, avantages, inconvénients et cas d'utilisation :
 
 ### Caractéristiques principales de R :
@@ -123,6 +124,5 @@ Le langage de programmation R est largement utilisé pour les statistiques, l'an
 
 ### Conclusion :
 R est un langage puissant et flexible pour les analyses statistiques et l'analyse de données. Il est particulièrement adapté pour les professionnels ayant une formation en statistiques ou en sciences des données, et pour ceux qui ont besoin de visualisations avancées et de capacités analytiques robustes. Si vos projets nécessitent une analyse statistique complexe, des visualisations de haute qualité, ou si vous travaillez dans le milieu académique ou la recherche, R pourrait être l'outil idéal pour vous.
----
 ---
 ---
