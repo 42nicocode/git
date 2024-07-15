@@ -1,7 +1,5 @@
 ---
 ---
-
----
 ### Responsabilités du Data Analyste :
 
 1. **Collecte des données :**
